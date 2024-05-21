@@ -1,5 +1,8 @@
 
+
 <img src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png" width="155px">
+
+<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=whit">
 
 # PROMPT-DE-COMANDO
 _**Comandos do Prompt de Comando do WINDOWS**_
