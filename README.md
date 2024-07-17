@@ -31,3 +31,13 @@ _**Comandos do Prompt de Comando do WINDOWS**_
 - ```vol``` : Mostra a unidade do disco e seu número de série.
 - ```wmic``` : Acessa informações do sistema, **veja seus parâmetros**.
   - ```wmic product get name,version``` : Mostra o nome ea vesão dos softwares instalados.
+
+## VARIAVEIS DE AMBIENTE/SISTEMA
+**Vale resaltar que alguns só iram retornar o valor da mesmas em formato de erro/texto, já outras iram para o destino do valor indicado** <br> <br>
+*Para acessar uma variavel coloque `'%insira_o_nome_da_variavel%'`* <br>
+- `PATH`: Define os diretórios onde o sistema procura por executáveis.
+- `TEMP`: Aponta para o diretório temporário para arquivos temporários.
+- `USERNAME`: Nome do usuário logado.
+-  `COMPUTERNAME`: Nome do computador na rede.
+- `APPDATA`: Caminho para o diretório onde aplicativos armazenam dados específicos do usuário.
+- `WINDIR`: Diretório de instalação do windows
